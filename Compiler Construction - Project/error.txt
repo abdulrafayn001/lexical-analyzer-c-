@@ -1,0 +1,5 @@
+< mian, error >
+< a, error >
+< ;, error >
+< cin, error >
+< a, error >
